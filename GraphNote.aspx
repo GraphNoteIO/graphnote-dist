@@ -3,8 +3,8 @@
 <html lang="en" data-beasties-container>
 <head>
   <meta charset="utf-8">
-    <title>Project Admin</title>
-  <base href="/flep/mstd/SitePages/Project-Admin.aspx/">
+    <title>GraphNote</title>
+  <base href="/flep/mstd/SitePages/GraphNote.aspx/">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -36,12 +36,12 @@
 
     body { overflow: auto !important; }
   </style>
-<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/styles-J6PIHJGB.css" media="print" onload="this.media='all'"><noscript>
-<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/styles-J6PIHJGB.css"></noscript></head>
+<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-J6PIHJGB.css" media="print" onload="this.media='all'"><noscript>
+<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-J6PIHJGB.css"></noscript></head>
 <body>
 <SharePoint:FormDigest runat="server" />
   <app-root></app-root>
 
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-KQDO5UAJ.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/main-FXKZMGKX.js" type="module"></script></body>
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-KQDO5UAJ.js">
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-FXKZMGKX.js" type="module"></script></body>
 </html>
