@@ -1,1 +1,0 @@
-import{Cb as p,Sa as o,lb as n,mb as i}from"./chunk-TNWOLYK6.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-topic"]],decls:2,vars:0,template:function(e,s){e&1&&(n(0,"p"),p(1,"topic works!"),i())},encapsulation:2})};export{c as Topic};
