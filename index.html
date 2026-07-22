@@ -53,5 +53,5 @@ window.__graphnoteEnv = {
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-VLNFLBUM.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-JKA6C3IQ.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-DCQWMIBK.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-BHYDVOQS.js" type="module"></script></body>
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-ZC5V3PUY.js" type="module"></script></body>
 </html>
