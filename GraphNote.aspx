@@ -6,8 +6,8 @@
 window.__graphnoteEnv = {
   siteUrl: 'https://collab.napma.nato.int/flep/mstd',
   apiPath: '/_api/web',
-  listName: 'GraphNote',
-  documentLibraryName: 'GraphNoteDocuments'
+  listName: 'ProjectAdmin',
+  documentLibraryName: 'ProjectAdminDocuments'
 };
 </script>
   <meta charset="utf-8">
