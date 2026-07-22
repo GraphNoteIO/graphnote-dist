@@ -50,7 +50,7 @@ window.__graphnoteEnv = {
 <SharePoint:FormDigest runat="server" />
   <app-root></app-root>
 
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-LCEQIMGE.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-TMYSZIJ2.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-PKCEH4AC.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-IQ5OVGOT.js" type="module"></script></body>
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-U7VEMNAL.js" type="module"></script></body>
 </html>
