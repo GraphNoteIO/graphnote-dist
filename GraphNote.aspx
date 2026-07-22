@@ -2,6 +2,14 @@
 <!doctype html>
 <html lang="en" data-beasties-container>
 <head>
+<script>
+window.__graphnoteEnv = {
+  siteUrl: 'https://collab.napma.nato.int/flep/mstd',
+  apiPath: '/_api/web',
+  listName: 'GraphNote',
+  documentLibraryName: 'GraphNoteDocuments'
+};
+</script>
   <meta charset="utf-8">
     <title>GraphNote</title>
   <base href="/flep/mstd/SitePages/GraphNote.aspx/">
