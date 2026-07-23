@@ -50,11 +50,11 @@ window.__graphnoteEnv = {
 <SharePoint:FormDigest runat="server" />
   <app-root></app-root>
 
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-22GJWOSH.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-EMWCOSHV.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-XJL26YOO.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-RAPBMNZD.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-446VAOHM.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-ZDNKKMHX.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-XRIDB6OL.js" type="module"></script></body>
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-UZRNFG3I.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-5O573S7K.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-YFG53OUU.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-2VKHPQQR.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-VWTLSODI.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-FUA2W6B6.js">
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-4HYKMA7G.js" type="module"></script></body>
 </html>
