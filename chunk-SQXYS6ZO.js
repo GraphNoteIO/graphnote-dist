@@ -1,0 +1,1 @@
+import{Vb as o,bb as e,yb as i,zb as a}from"./chunk-ZDNKKMHX.js";var s=class n{static \u0275fac=function(t){return new(t||n)};static \u0275cmp=e({type:n,selectors:[["app-settings-organization"]],decls:2,vars:0,template:function(t,g){t&1&&(i(0,"p"),o(1,"settings-organization works!"),a())},encapsulation:2})};export{s as SettingsOrganization};
