@@ -44,19 +44,17 @@ window.__graphnoteEnv = {
 
     body { overflow: auto !important; }
   </style>
-<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-NU4FFZHU.css" media="print" onload="this.media='all'"><noscript>
-<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-NU4FFZHU.css"></noscript></head>
+<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-37LKWOBH.css" media="print" onload="this.media='all'"><noscript>
+<link rel="stylesheet" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/styles-37LKWOBH.css"></noscript></head>
 <body>
 <SharePoint:FormDigest runat="server" />
   <app-root></app-root>
 
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-4JNOACNV.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-BUNQDYZY.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-K6C2SQTE.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-DFE75JFZ.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-DDEFNSDI.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-A4AUQLDF.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-KZR3BM4Z.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-FW67BOKA.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-RAPBMNZD.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-446VAOHM.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-ZDNKKMHX.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-WR7JLHGO.js" type="module"></script></body>
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-VANEJV7X.js" type="module"></script></body>
 </html>
