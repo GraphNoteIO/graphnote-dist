@@ -1,1 +1,0 @@
-import{Q as r,g as a}from"./chunk-2Q5HD25S.js";var o=class e{tagSearchRequested=new a;tagSearchRequested$=this.tagSearchRequested.asObservable();requestTagSearch(t){this.tagSearchRequested.next(t)}static \u0275fac=function(c){return new(c||e)};static \u0275prov=r({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};
