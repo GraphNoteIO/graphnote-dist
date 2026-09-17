@@ -1,0 +1,1 @@
+import{S as n,la as t}from"./chunk-GKFGOCHX.js";var o=class e{selectedGnid=t(null);static \u0275fac=function(a){return new(a||e)};static \u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})};export{o as a};
