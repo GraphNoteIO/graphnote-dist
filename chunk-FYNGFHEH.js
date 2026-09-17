@@ -1,0 +1,1 @@
+function l(e){if(!e||typeof e!="string")return null;let n=e.indexOf(":");if(n===-1)return null;let i=e.slice(0,n),r=e.slice(n+1);if(i==="user"){let u=Number(r);return Number.isFinite(u)?{kind:"user",userId:u}:null}return i==="role"&&r?{kind:"role",roleGnid:r}:null}function t(e){return e.kind==="user"?`user:${e.userId}`:`role:${e.roleGnid}`}export{l as a,t as b};
