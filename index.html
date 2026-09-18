@@ -12,7 +12,7 @@ window.__graphnoteEnv = {
 </script>
   <meta charset="utf-8">
     <title>GraphNote</title>
-  <base href="C:/Program Files/Git/flep/mstd/SitePages/GraphNote.aspx/">
+  <base href="/flep/mstd/SitePages/GraphNote.aspx/">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
