@@ -130,5 +130,5 @@ window.__graphnoteEnv = {
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-YBAMXKYI.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-5VKV5S3J.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/chunk-GKFGOCHX.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-DJFBHKDL.js" type="module"></script></body>
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/GraphNote/main-VRPZXAYA.js" type="module"></script></body>
 </html>
